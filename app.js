@@ -13,5 +13,5 @@ function agregarAmigo(){
 }
 
 function limpiarCajar(){
-    document.getElementById('amigo').value = ''
+    document.getElementById('amigo').value = '';
 }
