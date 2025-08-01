@@ -21,19 +21,21 @@ Una pequeña aplicación web interactiva que permite agregar nombres de amigos y
 
 ### 📋 Agregar participantes
 
-![Agregar amigos](./screenshots/input.png)
+<img src="screenshots/input.png" alt="Sorteo de amigo secreto" width="500">
+
 
 ---
 
 ### 🔄 Lista de nombres
 
-![Lista de nombres](./screenshots/lista.png)
+<img src="screenshots/lista.png" alt="Sorteo de amigo secreto" width="500">
+
 
 ---
 
 ### 🎉 Resultado del sorteo
 
-![Sorteo final](./screenshots/sorteo.png)
+<img src="screenshots/sorteo.png" alt="Sorteo de amigo secreto" width="500">
 
 ---
 
@@ -46,10 +48,10 @@ git clone https://github.com/solanomillo/Challenge-Amigo-Secreto.git
 cd Challenge-Amigo-Secreto  
 ```
 
-2. Abrir el archivo index.html en tu navegador:
+2. **Abrir el archivo index.html en tu navegador:**
 - Abrir index.html o simplemente doble clic en el archivo desde tu explorador de archivos
 
-3. Interactuar:
+3. **Interactuar:**
 
 - Escribe un nombre en el campo de entrada.
 
