@@ -1,4 +1,8 @@
 # 🎁 Amigo Secreto
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Estado](https://img.shields.io/badge/Estado-Funcional-green)
 
 Una pequeña aplicación web interactiva que permite agregar nombres de amigos y realizar un sorteo aleatorio para seleccionar un "amigo secreto". Ideal para juegos en reuniones, fin de año, o eventos de grupo.
 
