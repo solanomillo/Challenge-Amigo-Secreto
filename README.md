@@ -100,3 +100,7 @@ Challenge-Amigo-Secreto/
 **Julio Solano**  
 🔗 [GitHub](https://github.com/solanomillo)  
 📧 solanomillo144@gmail.com
+
+# 📄 Licencia
+Este proyecto está bajo la licencia MIT.
+Podés usarlo, compartirlo y modificarlo libremente.
