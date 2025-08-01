@@ -38,5 +38,20 @@ Una pequeña aplicación web interactiva que permite agregar nombres de amigos y
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/tuusuario/amigo-secreto.git
-cd amigo-secreto
+git clone https://github.com/solanomillo/Challenge-Amigo-Secreto.git
+cd Challenge-Amigo-Secreto
+
+2. **Abrir el archivo index.html en tu navegador:**
+Abrir index.html
+# o simplemente doble clic en el archivo desde tu explorador de archivos
+
+3 . Interactuar:
+
+Escribe un nombre en el campo de entrada.
+
+Presiona “Añadir”.
+
+Cuando termines de cargar nombres, hacé clic en “Sortear amigo”.
+
+Verás quién fue elegido como "amigo secreto" 🎁
+
