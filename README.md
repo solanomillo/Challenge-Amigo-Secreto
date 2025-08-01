@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Estado](https://img.shields.io/badge/Estado-Funcional-green)
 
+## ✨ Descripción
 Una pequeña aplicación web interactiva que permite agregar nombres de amigos y realizar un sorteo aleatorio para seleccionar un "amigo secreto". Ideal para juegos en reuniones, fin de año, o eventos de grupo.
 
 ---
